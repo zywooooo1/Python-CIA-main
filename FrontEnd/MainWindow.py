@@ -212,16 +212,7 @@ class Ui_MainWindow(object):
             Textedit.setText(ast_show)
 
 
-    def multi_level_directory(self):
-        model=QDirModel()
-        self.setModel(model)
-
-
-
-
-
-
-        def ex_test(self):
+    def ex_test(self):
         print("ffffffff")
 
 
